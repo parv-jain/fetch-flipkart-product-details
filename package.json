@@ -1,0 +1,16 @@
+{
+  "name": "flipkartscrape",
+  "version": "1.0.0",
+  "description": "fetch useful information from flipkart products",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parv Jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
