@@ -21,4 +21,4 @@ response:
     "title": "Safari Mosaic Cabin Luggage - 22 inch  (Red)",
     "current_price": "2,509",
     "mrp": "7,549"
-}```
+}
