@@ -22,3 +22,4 @@ response:
     "current_price": "2,509",
     "mrp": "7,549"
 }
+```
